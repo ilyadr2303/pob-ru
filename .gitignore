@@ -1,0 +1,6 @@
+# скачивается PoB с сайта игры при работе, в репозиторий не кладётся
+ru/icons/
+ru/img/poe_socket.png
+ru/socket_url.txt
+ru/error.log
+ru/dict_user.lua
